@@ -24,4 +24,4 @@ gimorra scan acme.test -p "focus on IDOR and broken access control" --intensity 
 gimorra findings <id> -f md
 ```
 
-Built with ♥ by [@j3ssie](https://github.com/j3ssie)
+Gimorra is crafted with ♥ by [@j3ssie](https://github.com/j3ssie)
