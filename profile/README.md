@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/gimorra"><img alt="Gimorra" src="https://avatars.githubusercontent.com/u/322532366?s=200&v=4" height="120" /></a>
   <br />
-  <strong>Gimorra, an autonomous offensive security agent</strong>
+  <strong>Gimorra - an autonomous offensive security agent</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@ Point it at a target and it runs the engagement end to end: **recon → scan →
 - **Proves its own findings**: every candidate is replayed non-destructively before it lands.
 - **Source audit too**: point it at a repo instead of (or alongside) a live target.
 - **Reads back**: findings, markdown/HTML reports, and a hash-chained chain of custody.
-- **Bridges your proxy**: imports Burp or Caido history and pushes confirmed leads back.
 
 ```bash
 gimorra scan acme.test
