@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="A gimorra scan start to finish: a prose brief resolves into flags, recon maps the target, the agent proposes candidates and the validator confirms three." src="./gimorra-scan.gif" width="900" />
+  <img alt="An illustrative gimorra scan in six scenes: the scope guard strikes out a denied host, recon passes union onto one attack-surface table, a master agent dispatches four specialist children, probers hunt four asserted premises and refute two, the proof engine re-proves eleven proposed PoCs and keeps three, and the run comes back as one folder of reproduced findings." src="./gimorra-scan.gif" width="900" />
 </p>
 
 Point it at a target and it runs the engagement end to end: **recon → scan → propose PoC → prove → report**.
